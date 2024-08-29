@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* DOM */
+
+body {
+  background-color: #212121;
+}
+
+header {
+  color: #FF5757;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+nav {
+  color: #FF5757;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+/* Couleurs principales */
+
+.bg-dark {
+  background-color: #212121;
+}
+
+.bg-gray {
+  background-color: #2F2F2F;
+}
+
+.text-red {
+  color: #FF5757;
+}
